@@ -2,7 +2,7 @@
 //  ClassifiedCollectionViewCell.swift
 //  tvOS_First_Test
 //
-//  Created by Alona on 26/06/22.
+//  Created by Alona on 26/06/22.     
 //
 
 import UIKit
