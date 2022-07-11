@@ -1,2 +1,2 @@
-# iCode_tvOS_App
+# Desperate Housewives
 A sample tvOS app. 
